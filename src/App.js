@@ -20,7 +20,7 @@ function App() {
           "Content-Type": "application/json",
           "Access-Control-Allow-Origin": "*",
           "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
-          "mode": "no-cors"
+          "mode": "cors"
         }
       }
     )
